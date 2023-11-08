@@ -1,26 +1,26 @@
-Shift: 0, Plaintext: hvs eiwqy fsr tcl xiadg cjsf hvs zonm rcu
-Shift: 1, Plaintext: iwt fjxrz gts udm yjbeh dktg iwt apon sdv
-Shift: 2, Plaintext: jxu gkysa hut ven zkcfi eluh jxu bqpo tew
-Shift: 3, Plaintext: kyv hlztb ivu wfo aldgj fmvi kyv crqp ufx
-Shift: 4, Plaintext: lzw imauc jwv xgp bmehk gnwj lzw dsrq vgy
-Shift: 5, Plaintext: max jnbvd kxw yhq cnfil hoxk max etsr whz
-Shift: 6, Plaintext: nby kocwe lyx zir dogjm ipyl nby futs xia
-Shift: 7, Plaintext: ocz lpdxf mzy ajs ephkn jqzm ocz gvut yjb
-Shift: 8, Plaintext: pda mqeyg naz bkt fqilo kran pda hwvu zkc
-Shift: 9, Plaintext: qeb nrfzh oba clu grjmp lsbo qeb ixwv ald
-Shift: 10, Plaintext: rfc osgai pcb dmv hsknq mtcp rfc jyxw bme
-Shift: 11, Plaintext: sgd pthbj qdc enw itlor nudq sgd kzyx cnf
-Shift: 12, Plaintext: the quick red fox jumps over the lazy dog
-Shift: 13, Plaintext: uif rvjdl sfe gpy kvnqt pwfs uif mbaz eph
-Shift: 14, Plaintext: vjg swkem tgf hqz lworu qxgt vjg ncba fqi
-Shift: 15, Plaintext: wkh txlfn uhg ira mxpsv ryhu wkh odcb grj
-Shift: 16, Plaintext: xli uymgo vih jsb nyqtw sziv xli pedc hsk
-Shift: 17, Plaintext: ymj vznhp wji ktc ozrux tajw ymj qfed itl
-Shift: 18, Plaintext: znk waoiq xkj lud pasvy ubkx znk rgfe jum
-Shift: 19, Plaintext: aol xbpjr ylk mve qbtwz vcly aol shgf kvn
-Shift: 20, Plaintext: bpm ycqks zml nwf rcuxa wdmz bpm tihg lwo
-Shift: 21, Plaintext: cqn zdrlt anm oxg sdvyb xena cqn ujih mxp
-Shift: 22, Plaintext: dro aesmu bon pyh tewzc yfob dro vkji nyq
-Shift: 23, Plaintext: esp bftnv cpo qzi ufxad zgpc esp wlkj ozr
-Shift: 24, Plaintext: ftq cguow dqp raj vgybe ahqd ftq xmlk pas
-Shift: 25, Plaintext: gur dhvpx erq sbk whzcf bire gur ynml qbt
+Shift: 0, Plaintext: The worst is yet to come
+Shift: 1, Plaintext: Uif xpstu jt zfu up dpnf
+Shift: 2, Plaintext: Vjg yqtuv ku agv vq eqog
+Shift: 3, Plaintext: Wkh zruvw lv bhw wr frph
+Shift: 4, Plaintext: Xli asvwx mw cix xs gsqi
+Shift: 5, Plaintext: Ymj btwxy nx djy yt htrj
+Shift: 6, Plaintext: Znk cuxyz oy ekz zu iusk
+Shift: 7, Plaintext: Aol dvyza pz fla av jvtl
+Shift: 8, Plaintext: Bpm ewzab qa gmb bw kwum
+Shift: 9, Plaintext: Cqn fxabc rb hnc cx lxvn
+Shift: 10, Plaintext: Dro gybcd sc iod dy mywo
+Shift: 11, Plaintext: Esp hzcde td jpe ez nzxp
+Shift: 12, Plaintext: Ftq iadef ue kqf fa oayq
+Shift: 13, Plaintext: Gur jbefg vf lrg gb pbzr
+Shift: 14, Plaintext: Hvs kcfgh wg msh hc qcas
+Shift: 15, Plaintext: Iwt ldghi xh nti id rdbt
+Shift: 16, Plaintext: Jxu mehij yi ouj je secu
+Shift: 17, Plaintext: Kyv nfijk zj pvk kf tfdv
+Shift: 18, Plaintext: Lzw ogjkl ak qwl lg ugew
+Shift: 19, Plaintext: Max phklm bl rxm mh vhfx
+Shift: 20, Plaintext: Nby qilmn cm syn ni wigy
+Shift: 21, Plaintext: Ocz rjmno dn tzo oj xjhz
+Shift: 22, Plaintext: Pda sknop eo uap pk ykia
+Shift: 23, Plaintext: Qeb tlopq fp vbq ql zljb
+Shift: 24, Plaintext: Rfc umpqr gq wcr rm amkc
+Shift: 25, Plaintext: Sgd vnqrs hr xds sn bnld
