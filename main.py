@@ -1,3 +1,6 @@
+# Function that takes a string and returns a list of all the 
+# permutations of the string, shifting the positions of the 
+# characters in the string.
 def caesar_cipher_brute_force_attack(ciphertext):
     with open("output.txt", "w") as output_file:
         for shift in range(26):
